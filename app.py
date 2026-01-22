@@ -6,7 +6,7 @@ import io
 st.set_page_config(page_title="Gantt Chart Generator", layout="wide", page_icon="📊")
 
 st.title("📊 Gantt Chart Generator")
-st.markdown("### Tölts fel egy Excel fájlt és generálj Gantt chartot!")
+st.markdown("### Tölts fel egy Excel fájlt!")
 
 # Sidebar instructions
 with st.sidebar:
